@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/nioe/madr-tools/compare/v1.2.0...v1.2.1) (2024-09-16)
+
+
+### 📦 Build System & Dependencies
+
+* Add eslint dev deps ([dc0288d](https://github.com/nioe/madr-tools/commit/dc0288d70f9ea62f96f23b3ba1ce6104092bfa8f))
+
 ## [1.2.0](https://github.com/nioe/madr-tools/compare/v1.1.3...v1.2.0) (2024-09-16)
 
 
